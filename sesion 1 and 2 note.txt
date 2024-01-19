@@ -1,0 +1,61 @@
+today 19-1-24
+
+session 1(10-6-23)
+
+1.complite cyclye of code like   source code ---compile --class file ---package --artifact((get jar file)
+
+2.cmd for compile ,package and run 
+
+3.diff bet jar and war
+
+4.creat project  in start.sprin.io. get th escleton of project.
+
+5.use intellj idea for using this scleton to creat java code.
+
+=============================================================
+
+
+session 2 (11-6-2023)
+
+
+1.  devops team -----1.product team (developer,qa,ops)
+                                          2. automation team engg (provide all the devops tool                                                                          install,manage,maintain,upgrade,troublesoot  to the product                                              team)
+                                          3.sre team (monitering existing app and chk any imprvement and                                               optimize existing workflow)
+2.cmd for compile package and run
+                                            ( mvn clean compile , mvn clean package , mvn     spring-boot:run)
+                                                 run in local and check (localhost:8080/dev)
+
+3. after run and test the code then this code is push in github
+
+4. to do integration between github and intellj idea .
+
+5.types of log level--  (info, debug, warning, error)
+
+6. diff between source code  and code base
+
+7.  cmd to push code in github
+                                 ( 1.git pull origin master  --  this is use at once time
+                                    2. git add --all
+                                    3. git commit -m "massage"
+                                    4. git push origin master)
+
+8. git cmd 
+                            1.  git status- list the all changes.
+                             2. git diff  -  show changes in which line
+                             3.  git brance -   list the branches and tell you current branch
+                             4. git clone --    download existing repositery.
+9.   git -            git is tool used to track all the changes. git is used to push the                             changes from local repo to remote repo. git source version control                             tool
+      github  --   github is source code repository.
+                            github is used to store the source code.
+  
+
+
+
+
+
+
+ 
+
+
+
+
